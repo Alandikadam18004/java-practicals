@@ -1,1 +1,3 @@
 # java-practicals
+react e-commerce website on mobile purchasing
+[react website](https://alandi18004.netlify.app/)
